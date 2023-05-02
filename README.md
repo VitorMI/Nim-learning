@@ -1,3 +1,3 @@
-# nim-estudos
+# nim-learning
 
 Repositorio para guardar os meus progressos com a linguagem
